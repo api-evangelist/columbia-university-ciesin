@@ -65,4 +65,16 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Columbia University-CIESIN is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.ciesin.columbia.edu
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.ciesin.columbia.edu)
+- [GitHub](https://github.com/ciesin)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/columbia-university-ciesin/](https://apis.io/providers/columbia-university-ciesin/).
